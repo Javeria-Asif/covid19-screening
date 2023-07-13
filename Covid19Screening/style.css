@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    width: 15%;
+}
+
+.container{
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    width: 100%;
+}
+
+.sub_main {
+    width: 70%;
+}
+
+.sub_main_img {
+
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.sub_main_img>img {
+    width: 60%;
+}
+.btn {
+    display: block;
+   width: 100%;
+   border: none;
+   background-color: #2186d4;
+   font-size: 20px;
+   font-weight: bold;
+   color: white;
+   margin-top: 10px;
+   padding: 10px 0px;
+   border-radius: 10px;
+}
+.sub_main_2{
+ justify-content:center;
+ 
+ Margin-top: 10%;
+}
+.sub_main_1{
+    justify-content:center;
+ 
+ Margin-top: 10%;
+}

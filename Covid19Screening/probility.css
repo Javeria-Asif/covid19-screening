@@ -1,0 +1,19 @@
+.logo {
+    width: 15%;
+}
+
+.container{
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    padding-top: 3%;
+}
+.sub-main{
+    padding-top: 3%;
+}
+.sub-main-1{
+    padding-top: 3%;
+}
